@@ -174,6 +174,9 @@ Madrugada (0:00 am - 6:00 am): Aunque este intervalo suele tener menos actividad
 
 <h2>Evaluación de los modelos</h2>
 
+![image](https://github.com/pabloing93/consumer_spending/assets/32267303/f0a00d2c-7ec4-41b6-ba5e-81d4a98fe337)
+
+
 ![image](https://github.com/pabloing93/consumer_spending/assets/32267303/22287b64-6e72-436c-9166-8c39f46661a1)
 
 
