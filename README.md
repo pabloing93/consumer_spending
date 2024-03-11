@@ -163,6 +163,21 @@ Madrugada (0:00 am - 6:00 am): Aunque este intervalo suele tener menos actividad
 
 <h2>Construcción de los modelos para la predicción</h2>
 
+<p>Para la construcción de los modelos nos apoyamos en múltiples opciones para poder obtener lo mejor de cada algoritmo de Machine Learning</p>
+1. LinearRegression
+2. Random Forest Regression
+3. XGBoost
+4. LightGBM
+5. CatBoost
+6. Votación
+
 <h2>Evaluación de los modelos</h2>
 
+![image](https://github.com/pabloing93/consumer_spending/assets/32267303/22287b64-6e72-436c-9166-8c39f46661a1)
+
+
 <h2>Conclusión</h2>
+
+<p>Como resultado el modelo que mejor desempeño tuvo para poder predecir si un usuario va a comprar o no y cuánto gastará...
+Fué el modelo de LightGBM que nos dió mejores resultados.
+Con un coeficiente de determinación R2: del 30%</p>
