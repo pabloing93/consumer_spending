@@ -1,4 +1,4 @@
-![image](https://github.com/pabloing93/consumer_spending/assets/32267303/112333cc-b28a-4a17-bc82-41f1dae8ae03)<h1>Predicción de gastos de los usuarios de un e-commerce</h1>
+<h1>Predicción de gastos de los usuarios de un e-commerce</h1>
 
 > [!NOTE]
 > Este es un proyecto que pretende analizar datos oficiales y poder predecir si un consumidor comprará y cuánto gastará. <br>
