@@ -9,7 +9,11 @@
 <h2>Problema del negocio</h2>
 
 <table><tr><td> 
-La necesidad de prever y optimizar el gasto de sus usuarios ha llevado a una empresa de comercio electrónico a buscar soluciones innovadoras. Como científicos de datos, hemos sido convocados para desarrollar un modelo de machine learning que pueda predecir con precisión cuánto gastará un usuario al visitar dicho sitio web.
+  Google Merchandise Store ha detectado una caida en sus ventas a través de su web. <br>
+  Hemos sido convocados como científicos de datos para analizar la situación y proponer soluciones innovadoras. <br>
+  En primer instancia vamos a analizar y a detectar patrones de comportamiento de los usuarios para poder tomar mejores decisiones estratégicas y comerciales. <br>
+  Utilizando modelos de Machine Learning, preveremos el comportamiento de los usuarios y aplicaremos mejoras en la web orientadas a generar necesidades. <br>
+  Estimaremos si un usuario está interesado en comprar y también el importe de la compra para poder ofrecer ofertas personalizadas. <br><br>
 </td></tr></table>
 
 <h2>Stack de tecnologías</h2>
